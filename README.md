@@ -6,7 +6,7 @@ I'm an Information Technology undergraduate interested in building practical, us
 
 ## 🛠️ Skills
 
-**Languages:** Python · Java · C · JavaScript  
+**Languages:** Python · C · JavaScript  
 **Frontend:** React · HTML · CSS  
 **Backend & Database:** Supabase · MySQL · REST APIs  
 **Data & Analytics:** Python · SQL · Pandas · NumPy · Excel  
