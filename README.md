@@ -1,43 +1,46 @@
-Hi, I'm Eesha Bharathy 👋
-B.Tech IT Undergraduate | Full-Stack Developer | Data Analytics
+# Hi, I'm Eesha Bharathy 👋
+
+### B.Tech IT Undergraduate | Full-Stack Developer | Data Analytics
 
 I'm an Information Technology undergraduate interested in building practical, user-focused applications. I work primarily with React, Python, SQL, and Supabase, while exploring Data Analytics and AI-powered applications.
 
-Skills
+## 🛠️ Skills
 
-Languages: Python · Java · C · JavaScript  
-Frontend: React · HTML · CSS  
-Backend & Database: Supabase · MySQL · REST APIs  
-Data & Analytics: Python · SQL · Pandas · NumPy · Excel  
-Tools: Git · GitHub · VS Code
+**Languages:** Python · Java · C · JavaScript  
+**Frontend:** React · HTML · CSS  
+**Backend & Database:** Supabase · MySQL · REST APIs  
+**Data & Analytics:** Python · SQL · Pandas · NumPy · Excel  
+**Tools:** Git · GitHub · VS Code
 
-🚀 Projects
+## 🚀 Projects
 
-- 📚 StudyVerse — Gamified study planning and productivity platform
-- 🚨 CrisisCoach — Emergency guidance web application
-- 💻 Personal Portfolio — Responsive portfolio website
+- 📚 **StudyVerse** — Gamified study planning and productivity platform
+- 🚨 **CrisisCoach** — Emergency guidance web application
+- 💻 **Personal Portfolio** — Responsive portfolio website
 
-📊 Data & Analytics
+## 📊 Data & Analytics
 
 Interested in data analysis using Python, SQL, Pandas, NumPy, and Excel.
 
-Experience:
+**Experience:**
 - Deloitte Data Analytics Job Simulation
 - BCG Data Science Job Simulation
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Full-Stack Development
 - Data Structures & Algorithms
 - Data Analytics
 - AI-powered applications
 
- Open to Opportunities
+## 🎯 Open to Opportunities
 
 Currently looking for **internship opportunities** in Full-Stack Development, Data Analytics, and AI-powered applications.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/eesha-bharathy-j-79818832b) · [Email](eeshajeyaraj@gmail.com)
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
 
-**Learn. Build. Improve. **
+---
+
+> Learn. Build. Improve. 🚀
