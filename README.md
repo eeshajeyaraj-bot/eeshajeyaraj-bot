@@ -39,7 +39,7 @@ Currently looking for **internship opportunities** in Full-Stack Development, Da
 
 ## 🤝 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/eesha-bharathy-j-79818832b)) · [Email](eeshajeyaraj@gmail.com)
 
 ---
 
